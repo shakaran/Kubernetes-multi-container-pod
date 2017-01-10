@@ -10,6 +10,8 @@ Simple tutorial to demonstrate the concept of packaging multiple containers into
 
 Make sure that you have access to a Kubernetes cluster.
 
+Also available in [this youtube video](https://www.youtube.com/watch?v=CU-nNEY6Hfg).
+
 ## Build a Docker image from existing Python source code and push it to Docker Hub. Replace DOCKER_HUB_USER with your Docker Hub username.
 ```
 cd Build
